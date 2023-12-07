@@ -1,0 +1,19 @@
+{
+  "name": "logo",
+  "version": "1.0.0",
+  "description": "A questionaire-style logo creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FriedaHF/LoGO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FriedaHF/LoGO/issues"
+  },
+  "homepage": "https://github.com/FriedaHF/LoGO#readme"
+}
